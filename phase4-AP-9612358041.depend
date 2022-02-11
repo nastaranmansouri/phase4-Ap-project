@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1644139461 source:c:\users\veysipc\desktop\nasi\ap\phase4-ap-9612358041\src\color.cpp
+	<iostream>
+	<string>
+	"Color.h"
+
+1644132995 c:\users\veysipc\desktop\nasi\ap\phase4-ap-9612358041\include\color.h
+	<iostream>
+	<string>
+
+1644223293 source:c:\users\veysipc\desktop\nasi\ap\phase4-ap-9612358041\main.cpp
+	"playGame.h"
+	<random>
+	<ctime>
+	<string>
+	<vector>
+	"Color.h"
+	"Design.h"
+	"Manto.h"
+
+1644132971 c:\users\veysipc\desktop\nasi\ap\phase4-ap-9612358041\include\tailor.h
+	<iostream>
+	<string>
+
+1644139654 c:\users\veysipc\desktop\nasi\ap\phase4-ap-9612358041\include\design.h
+	<iostream>
+	<string>
+	<vector>
+	"Manto.h"
+	"Pants.h"
+
+1644133093 c:\users\veysipc\desktop\nasi\ap\phase4-ap-9612358041\include\manto.h
+	<iostream>
+
+1644133077 c:\users\veysipc\desktop\nasi\ap\phase4-ap-9612358041\include\pants.h
+	<iostream>
+	<string>
+
+1644133104 source:c:\users\veysipc\desktop\nasi\ap\phase4-ap-9612358041\src\manto.cpp
+	<iostream>
+	<string>
+	"Design.h"
+	"Manto.h"
+
+1644133066 source:c:\users\veysipc\desktop\nasi\ap\phase4-ap-9612358041\src\pants.cpp
+	<iostream>
+	<string>
+	"Pants.h"
+
+1644133119 source:c:\users\veysipc\desktop\nasi\ap\phase4-ap-9612358041\src\tailor.cpp
+	"Tailor.h"
+	<iostream>
+	<string>
+
+1644139669 source:c:\users\veysipc\desktop\nasi\ap\phase4-ap-9612358041\src\design.cpp
+	<iostream>
+	<string>
+	<stdexcept>
+	<vector>
+	"Design.h"
+	"Manto.h"
+	"Pants.h"
+
+1644223178 source:c:\users\veysipc\desktop\nasi\ap\phase4-ap-9612358041\src\shape.cpp
+	"shape.h"
+
+1644349325 c:\users\veysipc\desktop\nasi\ap\phase4-ap-9612358041\include\shape.h
+	<iostream>
+	<string>
+	<vector>
+	<array>
+	"state.h"
+
+1644349533 c:\users\veysipc\desktop\nasi\ap\phase4-ap-9612358041\include\state.h
+	<vector>
+	<string>
+	<array>
+
+1644349886 source:c:\users\veysipc\desktop\nasi\ap\phase4-ap-9612358041\src\state.cpp
+	"state.h"
+
+1644223279 c:\users\veysipc\desktop\nasi\ap\phase4-ap-9612358041\include\playgame.h
+	"shape.h"
+	<array>
+
